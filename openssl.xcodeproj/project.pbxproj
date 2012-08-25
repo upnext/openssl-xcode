@@ -135,6 +135,7 @@
 				GCC_OPTIMIZATION_LEVEL = 0;
 				INSTALL_PATH = /usr/local/lib;
 				PRODUCT_NAME = crypto;
+				SDKROOT = iphoneos5.1;
 			};
 			name = Debug;
 		};
@@ -147,6 +148,7 @@
 				GCC_MODEL_TUNING = G5;
 				INSTALL_PATH = /usr/local/lib;
 				PRODUCT_NAME = crypto;
+				SDKROOT = iphoneos5.1;
 				ZERO_LINK = NO;
 			};
 			name = Release;
